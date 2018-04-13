@@ -1,0 +1,27 @@
+Interesting-dynamics1.0项目简介：
+
+/* 作者：周志豪
+
+E-mail: 2727056321@qq.com/howie1581082934@qq.com
+
+日期：2018.4.12 15：04
+
+版本: 1.0
+
+简介：
+
+1.该动态视频桌面以插件形式编写而成，方便调用,以DOS窗口形式编写，并在调用时会自动隐藏
+
+2.本程序引用到Driect Show播放库，仅支持avi格式，如需支持MP4等其他编码请自行安装Windows多媒体SDK库
+
+3.注意在调用本程序时请修改代码防止重复调用，不然会造成桌面操作无响应！
+
+4.嵌入桌面博客学习资料：https://blog.csdn.net/bjbz_cxy/article/details/79893134
+
+5.作者CSDN博客地址：https://blog.csdn.net/bjbz_cxy
+
+6.本项目由于文件只有一个，所以没有用到解决方案，如需解决方案请自行创建然后将Interesting dynamic video1.0.cpp添加进去
+
+7.你可以将Interesting dynamic video1.0.cpp源代码打包成DLL方便调用！
+
+*/
