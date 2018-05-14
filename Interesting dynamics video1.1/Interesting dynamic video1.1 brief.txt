@@ -1,0 +1,23 @@
+Interesting-dynamics1.1项目简介：
+
+/* 作者：周志豪
+
+E-mail: 2727056321@qq.com/howie1581082934@qq.com
+
+日期：2018.5.14 15：23
+
+版本: 1.1
+
+简介：
+
+1.本次更新使用了win32窗口以及菜单方式控制视频播放
+
+2.本程序引用到Driect Show播放库，仅支持avi格式，如需支持MP4等其他编码请自行安装Windows多媒体SDK库
+
+3.注意在调用本程序时请修改代码防止重复调用，不然会造成桌面操作无响应！
+
+4.嵌入桌面博客学习资料：https://blog.csdn.net/bjbz_cxy/article/details/79893134
+
+5.作者CSDN博客地址：https://blog.csdn.net/bjbz_cxy
+
+*/
